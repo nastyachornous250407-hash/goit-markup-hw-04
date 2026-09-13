@@ -19,3 +19,15 @@
 }
 
 
+.features-icon-list {
+    display: flex;
+        align-items: center;
+        justify-content: center;
+    border: 1px solid #8e8f99;
+        border-radius: 4px;
+        background: #f4f4fd;
+        height: 112px;
+        margin-bottom: 8px;
+}
+
+
